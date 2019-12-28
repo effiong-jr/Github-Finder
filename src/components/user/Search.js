@@ -9,7 +9,7 @@ const Search = () => {
 
     const [text, setText] = useState("");
 
-    const onChange = (e) => setText(() => e.target.value );
+    const onChange = (e) => setText(e.target.value );
 
     const onSubmit = (e) => {
         e.preventDefault();
