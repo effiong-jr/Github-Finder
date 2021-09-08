@@ -1,3 +1,7 @@
+Live Demo
+Click [https://githubfinder-by-effiong.netlify.app](https://githubfinder-by-effiong.netlify.app) to try it out
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
